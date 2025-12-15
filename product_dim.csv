@@ -1,0 +1,122 @@
+product_id,product_name,product_price,effective_start_date,effective_end_date,current_ind
+582,iPhone,635,10/1/2019,11/30/2019,N
+582,iPhone,689,6/1/2019,9/30/2019,N
+582,iPhone,649,4/1/2019,5/31/2019,N
+582,iPhone,700,1/1/1900,3/31/2019,N
+216,LG Dryer,610,6/1/2019,6/30/2019,N
+216,LG Dryer,590,10/1/2019,11/30/2019,N
+216,LG Dryer,600,7/1/2019,8/31/2019,N
+216,LG Dryer,630,1/1/1900,3/31/2019,N
+216,LG Dryer,590,4/1/2019,5/31/2019,N
+216,LG Dryer,610,9/1/2019,9/30/2019,N
+168,20in Monitor,125,4/1/2019,4/30/2019,N
+168,20in Monitor,109.99,10/1/2019,11/30/2019,N
+168,20in Monitor,140,1/1/1900,3/31/2019,N
+168,20in Monitor,130,5/1/2019,9/30/2019,N
+614,Google Phone,610,6/1/2019,9/30/2019,N
+614,Google Phone,579,10/1/2019,10/31/2019,N
+614,Google Phone,599,3/1/2019,5/31/2019,N
+614,Google Phone,620,1/1/1900,2/28/2019,N
+614,Google Phone,589,11/1/2019,11/30/2019,N
+394,Flatscreen TV,279,10/1/2019,11/30/2019,N
+394,Flatscreen TV,289,4/1/2019,7/31/2019,N
+394,Flatscreen TV,299,8/1/2019,9/30/2019,N
+394,Flatscreen TV,320,1/1/1900,3/31/2019,N
+826,ThinkPad Laptop,999.99,1/1/1900,2/28/2019,N
+826,ThinkPad Laptop,990,6/1/2019,9/30/2019,N
+826,ThinkPad Laptop,979,3/1/2019,5/31/2019,N
+826,ThinkPad Laptop,959,10/1/2019,10/31/2019,N
+826,ThinkPad Laptop,970,11/1/2019,11/30/2019,N
+443,27in FHD Monitor,149.99,1/1/1900,2/28/2019,N
+443,27in FHD Monitor,139,6/1/2019,9/30/2019,N
+443,27in FHD Monitor,120,10/1/2019,11/30/2019,N
+443,27in FHD Monitor,129,3/1/2019,5/31/2019,N
+277,Wired Headphones,11.99,4/1/2019,5/31/2019,N
+277,Wired Headphones,12.99,3/1/2019,3/31/2019,N
+277,Wired Headphones,13.99,6/1/2019,7/31/2019,N
+277,Wired Headphones,15,1/1/1900,2/28/2019,N
+277,Wired Headphones,12.99,10/1/2019,11/30/2019,N
+277,Wired Headphones,15,8/1/2019,9/30/2019,N
+968,LG Washing Machine,600,1/1/1900,2/28/2019,N
+968,LG Washing Machine,550,3/1/2019,11/30/2019,N
+422,Macbook Pro Laptop,1800,1/1/1900,3/31/2019,N
+422,Macbook Pro Laptop,1699,4/1/2019,5/31/2019,N
+422,Macbook Pro Laptop,1699,10/1/2019,10/31/2019,N
+422,Macbook Pro Laptop,1750,11/1/2019,11/30/2019,N
+422,Macbook Pro Laptop,1800,6/1/2019,9/30/2019,N
+715,USB-C Charging Cable,14.99,4/1/2019,4/30/2019,N
+715,USB-C Charging Cable,16.99,2/1/2019,2/28/2019,N
+715,USB-C Charging Cable,15.99,5/1/2019,5/31/2019,N
+715,USB-C Charging Cable,15.99,3/1/2019,3/31/2019,N
+715,USB-C Charging Cable,12.99,11/1/2019,11/30/2019,N
+715,USB-C Charging Cable,17.99,1/1/1900,1/31/2019,N
+715,USB-C Charging Cable,11.95,10/1/2019,10/31/2019,N
+715,USB-C Charging Cable,17.99,8/1/2019,9/30/2019,N
+715,USB-C Charging Cable,16.99,6/1/2019,7/31/2019,N
+406,AA Batteries (4-pack),4.49,5/1/2019,7/31/2019,N
+406,AA Batteries (4-pack),4.69,8/1/2019,9/30/2019,N
+406,AA Batteries (4-pack),4.69,2/1/2019,2/28/2019,N
+406,AA Batteries (4-pack),4.49,10/1/2019,11/30/2019,N
+406,AA Batteries (4-pack),4.29,4/1/2019,4/30/2019,N
+406,AA Batteries (4-pack),4.49,3/1/2019,3/31/2019,N
+406,AA Batteries (4-pack),4.99,1/1/1900,1/31/2019,N
+877,27in 4K Gaming Monitor,399.99,6/1/2019,9/30/2019,N
+877,27in 4K Gaming Monitor,379.99,10/1/2019,11/30/2019,N
+877,27in 4K Gaming Monitor,389.99,3/1/2019,5/31/2019,N
+877,27in 4K Gaming Monitor,409.99,1/1/1900,2/28/2019,N
+493,34in Ultrawide Monitor,425,11/1/2019,11/30/2019,N
+493,34in Ultrawide Monitor,450,1/1/1900,1/31/2019,N
+493,34in Ultrawide Monitor,435,6/1/2019,7/31/2019,N
+493,34in Ultrawide Monitor,440,8/1/2019,9/30/2019,N
+493,34in Ultrawide Monitor,419.99,10/1/2019,10/31/2019,N
+493,34in Ultrawide Monitor,430,3/1/2019,3/31/2019,N
+493,34in Ultrawide Monitor,440,2/1/2019,2/28/2019,N
+493,34in Ultrawide Monitor,420,4/1/2019,4/30/2019,N
+493,34in Ultrawide Monitor,430,5/1/2019,5/31/2019,N
+692,AAA Batteries (4-pack),2.99,4/1/2019,5/31/2019,N
+692,AAA Batteries (4-pack),3.09,3/1/2019,3/31/2019,N
+692,AAA Batteries (4-pack),3.29,2/1/2019,2/28/2019,N
+692,AAA Batteries (4-pack),3.29,8/1/2019,9/30/2019,N
+692,AAA Batteries (4-pack),3.09,6/1/2019,7/31/2019,N
+692,AAA Batteries (4-pack),2.99,10/1/2019,11/30/2019,N
+692,AAA Batteries (4-pack),3.49,1/1/1900,1/31/2019,N
+953,Apple Airpods Headphones,179,6/1/2019,9/30/2019,N
+953,Apple Airpods Headphones,150,10/1/2019,11/30/2019,N
+953,Apple Airpods Headphones,165,3/1/2019,5/31/2019,N
+953,Apple Airpods Headphones,179,1/1/1900,2/28/2019,N
+435,Golf Handheld GPS Caddie,399,3/1/2019,4/30/2019,N
+435,Golf Handheld GPS Caddie,405,5/1/2019,8/31/2019,N
+435,Golf Handheld GPS Caddie,410,1/1/1900,2/28/2019,N
+435,Golf Handheld GPS Caddie,379,9/1/2019,11/30/2019,N
+981,Lightning Charging Cable,16,1/1/1900,1/31/2019,N
+981,Lightning Charging Cable,12.99,4/1/2019,5/31/2019,N
+981,Lightning Charging Cable,15.99,8/1/2019,9/30/2019,N
+981,Lightning Charging Cable,13.99,11/1/2019,11/30/2019,N
+981,Lightning Charging Cable,12.99,10/1/2019,10/31/2019,N
+981,Lightning Charging Cable,14.99,2/1/2019,2/28/2019,N
+981,Lightning Charging Cable,14,6/1/2019,7/31/2019,N
+981,Lightning Charging Cable,13.99,3/1/2019,3/31/2019,N
+467,Bose SoundSport Headphones,140,1/1/1900,2/28/2019,N
+467,Bose SoundSport Headphones,114.99,10/1/2019,11/30/2019,N
+467,Bose SoundSport Headphones,119.99,3/1/2019,5/31/2019,N
+467,Bose SoundSport Headphones,135,8/1/2019,9/30/2019,N
+467,Bose SoundSport Headphones,124.99,6/1/2019,7/31/2019,N
+582,iPhone,620,12/1/2019,12/31/9999,Y
+216,LG Dryer,550,12/1/2019,12/31/9999,Y
+168,20in Monitor,99.99,12/1/2019,12/31/9999,Y
+614,Google Phone,550,12/1/2019,12/31/9999,Y
+394,Flatscreen TV,250,12/1/2019,12/31/9999,Y
+826,ThinkPad Laptop,929,12/1/2019,12/31/9999,Y
+443,27in FHD Monitor,109,12/1/2019,12/31/9999,Y
+277,Wired Headphones,11.99,12/1/2019,12/31/9999,Y
+968,LG Washing Machine,495,12/1/2019,12/31/9999,Y
+422,Macbook Pro Laptop,1649,12/1/2019,12/31/9999,Y
+715,USB-C Charging Cable,10.99,12/1/2019,12/31/9999,Y
+406,AA Batteries (4-pack),4.29,12/1/2019,12/31/9999,Y
+877,27in 4K Gaming Monitor,359.99,12/1/2019,12/31/9999,Y
+493,34in Ultrawide Monitor,399.99,12/1/2019,12/31/9999,Y
+692,AAA Batteries (4-pack),2.89,12/1/2019,12/31/9999,Y
+953,Apple Airpods Headphones,139,12/1/2019,12/31/9999,Y
+435,Golf Handheld GPS Caddie,350,12/1/2019,12/31/9999,Y
+981,Lightning Charging Cable,10.99,12/1/2019,12/31/9999,Y
+467,Bose SoundSport Headphones,104.99,12/1/2019,12/31/9999,Y
